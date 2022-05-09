@@ -58,6 +58,7 @@
             this.UxBlueRButton.TabStop = true;
             this.UxBlueRButton.Text = "<--Blue!";
             this.UxBlueRButton.UseVisualStyleBackColor = true;
+            this.UxBlueRButton.CheckedChanged += new System.EventHandler(this.UxBlueRButton_CheckedChanged);
             // 
             // UxRedRButton
             // 

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSC240-06-02-FiveColors2-SES/1.0.0": {
+        "runtime": {
+          "CSC240-06-02-FiveColors2-SES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSC240-06-02-FiveColors2-SES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

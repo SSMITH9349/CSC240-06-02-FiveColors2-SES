@@ -1,0 +1,17 @@
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\bin\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.exe
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\bin\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.deps.json
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\bin\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.runtimeconfig.json
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\bin\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.dll
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\bin\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.pdb
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.csproj.AssemblyReference.cache
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240_06_02_FiveColors2_SES.welcomeForm.resources
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.csproj.GenerateResource.cache
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.AssemblyInfoInputs.cache
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.AssemblyInfo.cs
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.dll
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\refint\CSC240-06-02-FiveColors2-SES.dll
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.pdb
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\CSC240-06-02-FiveColors2-SES.genruntimeconfig.cache
+C:\Users\Sara\Documents\School Documents\Programs\CSC240-06-02-FiveColors2-SES\CSC240-06-02-FiveColors2-SES\obj\Debug\net6.0-windows\ref\CSC240-06-02-FiveColors2-SES.dll
